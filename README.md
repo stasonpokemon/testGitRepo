@@ -1,1 +1,2 @@
 # testGitRepo
+Some text
